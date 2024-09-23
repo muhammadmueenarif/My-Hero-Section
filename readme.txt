@@ -1,0 +1,1 @@
+just simple hero section in which I learned to use display flex property and also used background linear gradient in degrees.
